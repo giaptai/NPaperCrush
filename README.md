@@ -1,5 +1,5 @@
 # NPaperCrush
-<h1>The newspaper app: get RSS from internet</h1>
+<h1>The newspaper app</h1>
 <ul>
   <li>Using xmlpullparser</li>
   <li>WorkManager</li>
