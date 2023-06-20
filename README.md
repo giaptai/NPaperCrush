@@ -1,7 +1,7 @@
 # NPaperCrush
 <h1>The newspaper app: get RSS from internet</h1>
 <ul style="font-size:30px">
-  <li>Using xmlpullparser</li>
+  <li style="font-size:30px">Using xmlpullparser</li>
   <li>WorkManager</li>
   <li>Update the newest news</li>
 </ul>
