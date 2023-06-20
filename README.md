@@ -7,7 +7,9 @@
 </ul>
 
 <div class="container">
-  <div class="child" style="margin: 0 auto;">https://github.com/giaptai/NPaperCrush/assets/102518847/d6f388d0-5df9-4644-92a7-d6dc85026993</div>
+  <div class="child" style="margin: 0 auto;">
+    https://github.com/giaptai/NPaperCrush/assets/102518847/e5d11ce9-ccf3-473b-9bb4-018ca8a6adf9
+  </div>
 </div>
 
 
